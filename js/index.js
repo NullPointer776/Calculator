@@ -14,3 +14,8 @@ function calc(op) {
     }
     result.textContent = typeof res === 'number' ? res.toFixed(2) : res;
 }
+function clearAll() {
+    num1.value = '';
+    num2.value = '';
+    result.textContent = '0';
+        }
