@@ -44,8 +44,8 @@ input {
     background: lightskyblue; 
 }
 .clear { 
-    background: lightcoral !important; 
+    background: red !important; 
 }
 .clear:hover { 
-    background: lightpink !important; 
+    background: orange !important; 
 }
