@@ -38,7 +38,6 @@ input {
     background: lightblue; 
     border: none; 
     border-radius: 5px; 
-    cursor: pointer; 
 }
 .buttons button:hover { 
     background: lightskyblue; 
